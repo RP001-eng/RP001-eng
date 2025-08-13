@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development , Digital Marketing**
 
-- 👯 I’m looking to collaborate on [App development and Digital Marketing fields](https://github.com/RP001-eng?tab=repositories)
+- 👯 I’m looking to collaborate on [Web development and Digital Marketing fields](https://github.com/RP001-eng?tab=repositories)
 
 - 👨‍💻 My portfolio website [https://rp001-eng.github.io/myportfolio/](https://rp001-eng.github.io/myportfolio/)
 
