@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ram pandian G</h1>
-<h3 align="center">Dedicated B.Tech IT graduate with expertise in App development,Digital marketing, and problem-solving. Aspiring to contribute to a progressive organization by utilizing my skills in software development, AI, and database management to create scalable, high-quality solutions.</h3>
+<h3 align="center">Dedicated B.Tech IT graduate with expertise in Web development,Digital marketing, and problem-solving. Aspiring to contribute to a progressive organization by utilizing my skills in software development, AI, and database management to create scalable, high-quality solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp001-eng&label=Profile%20views&color=0e75b6&style=flat" alt="rp001-eng" /> </p>
 
-- 🔭 I’m currently working on [App development Projects](https://github.com/RP001-eng?tab=repositories)
+- 🔭 I’m currently working on [Web development Projects](https://github.com/RP001-eng?tab=repositories)
 
-- 🌱 I’m currently learning **App development , Digital Marketing**
+- 🌱 I’m currently learning **Web development , Digital Marketing**
 
 - 👯 I’m looking to collaborate on [App development and Digital Marketing fields](https://github.com/RP001-eng?tab=repositories)
 
