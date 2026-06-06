@@ -1,22 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ram pandian G</h1>
-<h3 align="center">Dedicated B.Tech IT graduate with expertise in Web development,Digital marketing, and problem-solving. Aspiring to contribute to a progressive organization by utilizing my skills in software development, AI, and database management to create scalable, high-quality solutions.</h3>
+<h1 align="center">Hi 👋, I'm Ram Pandian G</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rp001-eng&label=Profile%20views&color=0e75b6&style=flat" alt="rp001-eng" /> </p>
+<h3 align="center">
+Aspiring Cloud & DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices. Skilled in AWS, Docker, Terraform, Kubernetes, CI/CD, and GitOps workflows.
+</h3>
 
-- 🔭 I’m currently working on [Web development Projects](https://github.com/RP001-eng?tab=repositories)
-
-- 🌱 I’m currently learning **Web development , Digital Marketing**
-
-- 👯 I’m looking to collaborate on [Web development and Digital Marketing fields](https://github.com/RP001-eng?tab=repositories)
-
-- 👨‍💻 My portfolio website [https://rp001-eng.github.io/myportfolio/](https://rp001-eng.github.io/myportfolio/)
-
-- 📫 How to reach me **rampandian47@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ram pandian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram pandian" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=RP001-eng&label=Profile%20views&color=0e75b6&style=flat" alt="RP001-eng" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on **Cloud & DevOps Projects**
+
+- 🌱 I’m currently learning **Kubernetes, Terraform, GitOps, AWS Services, and CI/CD Automation**
+
+- 👯 I’m looking to collaborate on **Cloud Computing, DevOps, and Infrastructure Automation Projects**
+
+- ☁️ Interested in **AWS Cloud, Containerization, Infrastructure as Code, and Kubernetes**
+
+- 👨‍💻 My Portfolio: **https://rp001-eng.github.io/myportfolio/**
+
+- 📫 Reach me at **rampandian47@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/ram-pandian-g" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Tech Stack:</h3>
+
+### ☁️ Cloud
+- AWS EC2
+- AWS S3
+- AWS VPC
+- IAM
+- Application Load Balancer (ALB)
+- Auto Scaling
+
+### 🚀 DevOps
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Jenkins
+- Argo CD
+- SonarQube
+
+### 💻 Programming
+- Python
+
+### 🔧 Tools & Version Control
+- Git
+- GitHub
+- Linux
+
+<h3 align="left">Featured Projects:</h3>
+
+### 🚀 End-to-End GitOps CI/CD Pipeline
+- Jenkins, SonarQube, Docker, Kubernetes, Argo CD
+- Automated build, testing, image creation, and Kubernetes deployment using GitOps principles.
+
+### ☁️ Secure Banking Network Architecture using AWS VPC
+- AWS VPC, EC2, Public & Private Subnets
+- Designed a secure multi-tier AWS network architecture with controlled access and network isolation.
+
+### 🐳 Smart Task Manager (Dockerized ToDo Application)
+- React, Node.js, MySQL, Docker
+- Containerized a full-stack application using Docker Compose for consistent deployments.
